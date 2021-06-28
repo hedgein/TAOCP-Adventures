@@ -20,7 +20,7 @@ Because I want to git gud at Rust :^) . If you're interested, I can explain my r
 Sam Altman has a great lecture on how to succeed with start-ups, and in particular on how to spot market trends: 
 >https://www.ycombinator.com/library/89-how-to-succeed-with-a-startup-sus-2018
 
-To run it down, he explains that while real trends have few early adopters, but those few absolutely love the product. A good example is the first iPhone, not many bought the first iPhone but the people who did were obssessed with it and were on it all day. An example of a fake trend is Virtual Reality (VR), people keep saying VR is the next big thing but those who actually have VR headsets are neither using it constantly or passionate about it in a significant way. 
+To run it down, he explains that while real trends have few early adopters, those few absolutely love the product. A good example is the first iPhone, not many bought the first iPhone but the people who did were obssessed with it and were on it all day. An example of a fake trend is Virtual Reality (VR), people keep saying VR is the next big thing but those who actually have VR headsets are neither using it constantly or passionate about it in a significant way. 
 
 What's my point and what does this have to do with Rust? 
 
