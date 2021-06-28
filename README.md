@@ -3,7 +3,7 @@ My adventures in Donald Knuth's classic The Art of Computer Programing. Exercise
 
 
 ## Format
-For exercises that require written form, I will be using LaTeX. PDF's in a separate folder will also be pushed to the repo for convenient access by **chapter**. 
+For exercises that require written form, I will be using LaTeX. PDF's in a separate folder will also be pushed to the repo for convenient access. 
 Programming exercises will be done in Swift and Rust. Yes, both and separately. 
 
 ### Why Swift?
