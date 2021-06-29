@@ -28,7 +28,7 @@ What's my point and what does this have to do with Rust?
 Take a look at the most recent StackOverflow survey on the Most Love Languages:
 >https://insights.stackoverflow.com/survey/2020#most-loved-dreaded-and-wanted\
 
-For five years running Rust has been the Most Loved language by developers. Yet, the 2020 survey alone reveals that it's still the most loved, and it's not even close. 
+For five years running Rust has been the Most Loved language by developers. On top of this,  the 2020 survey alone reveals that it's still the most loved, and it's not even close. 
 
 >![mostlovedrust](https://user-images.githubusercontent.com/22156421/123712119-49ecf900-d837-11eb-827f-33ea02d71770.PNG)
 
