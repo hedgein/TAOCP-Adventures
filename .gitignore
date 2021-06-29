@@ -3,9 +3,9 @@
 
 #ignore latex configuration files (is that what these are?
 #whatever they have personal info so ignore kekeke
-.aux
-.fdb_latexmk
-.fls
-.log
-.synxtex.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synxtex.gz
 
