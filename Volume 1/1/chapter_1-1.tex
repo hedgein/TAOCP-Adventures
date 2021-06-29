@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Chapter 1: Basic Concepts}
+\author{Exercise Solutions}
+\date{}
+
+\begin{document}
+\maketitle
+
+\section*{1.1 Difficulty [10]}
+
+\subsection*{Answer}
+t \textleftarrow\ a , a \textleftarrow\ b, b \textleftarrow\ c, 
+c \textleftarrow\ d, d \textleftarrow\ t
+\subsection*{Explanation}
+Since we're "overwriting" each value by shifting every variable to the left, 
+we have to keep an "extra copy" of \textbf{a} \textit{in} \textbf{t} before it gets overwritten, that way we can
+overwrite \textbf{d} \textit{with} \textbf{t} (our "copy" or equivalent to \textbf{a}) at the end. Order significantly
+matters here as we can't go the other direction without it being too many steps.
+\subsection*{Comments}
+This is the equivalent of a nice beginning programming exercise I use
+at Girls Who Code! Gets the brain stirring, but definitely a simpler 
+exercise that gets the point across
+
+\end{document}
+
