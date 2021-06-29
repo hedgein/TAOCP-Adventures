@@ -7,5 +7,5 @@
 *.fdb_latexmk
 *.fls
 *.log
-*.synxtex.gz
+*.synctex.gz
 
