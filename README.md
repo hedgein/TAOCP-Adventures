@@ -39,8 +39,8 @@ Look at how wide the margin is between Rust and TypeScript, its nearly 20 percen
 Everything that I've seen and heard about Rust has always been enthused with passion. 
 What solidified my decision to dive into Rust was essentially this past year's StackOverflow survey. I was shocked at the statistics and thought, "Welp, I guess that's it then!"
 
-## A Purpose
-I want to be the best programmer that I can be, and my hopes is that trudging through this classic will help me on my journey. Sharing is caring, and I hope my convoluted answers to the exercises could help someone glean some additional insight into the problem. 
+## TLDR
+Sharing is caring, and I hope my convoluted answers to the exercises could help someone glean some additional insight into the problem. 
 
 ### Where to reach me
 Don't. 
