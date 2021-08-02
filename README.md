@@ -25,7 +25,7 @@ To run it down, he explains that while real trends have few early adopters, thos
 What's my point and what does this have to do with Rust? 
 
 #### My logic is that Rust could be very much be a real trend. 
-Take a look at the most recent StackOverflow survey on the Most Love Languages:
+Take a look at the most recent StackOverflow survey on the Most Loved Languages:
 >https://insights.stackoverflow.com/survey/2020#most-loved-dreaded-and-wanted\
 
 For five years running Rust has been the Most Loved language by developers. On top of this,  the 2020 survey alone reveals that it's still the most loved, and it's not even close. 
