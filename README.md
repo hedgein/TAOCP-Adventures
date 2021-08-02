@@ -40,7 +40,7 @@ Everything that I've seen and heard about Rust has always been enthused with pas
 What solidified my decision to dive into Rust was essentially this past year's StackOverflow survey. I was shocked at the statistics and thought, "Welp, I guess that's it then!"
 
 ## TLDR
-Sharing is caring, and I hope my convoluted answers to the exercises could help someone glean some additional insight into the problem. 
+Sharing is caring, and I hope my convoluted answers to the exercises are helpful 
 
 ### Where to reach me
 Don't. 
