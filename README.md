@@ -6,12 +6,6 @@ My adventures in Donald Knuth's classic The Art of Computer Programing. Exercise
 For exercises that require written form, I will be using LaTeX. PDF's in a separate folder will also be pushed to the repo for convenient access. 
 Programming exercises will be done in Swift and Rust. Yes, both and separately. 
 
-### Why Swift?
-Because I love Swift. 
-
-### Why do you love it? 
-I'm not sure, I ask myself this quite often. It's pretty interesting to me. 
-
 
 ### Why Rust?
 Because I want to git gud at Rust :^) . If you're interested, I can explain my reasoning for learning Rust and this Trial by Fire method of becoming proficient with it. 
